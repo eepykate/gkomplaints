@@ -1,4 +1,4 @@
-**Why a matrix bridge is bad (for a public server)**
+## Why a matrix bridge is bad (for a public server)
 
 (yeet/yote are equivalent to ban or mute)
 

@@ -1,3 +1,5 @@
+## Why every relevant web browser sucks.
+
 In no particular order - OS tags refer to issues only present when using that OS.
 
 ### The Good

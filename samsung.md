@@ -1,3 +1,5 @@
+## Why samsung is bad™
+
 ### Phones
 
  - Frequent "Account terms updated" notifications
