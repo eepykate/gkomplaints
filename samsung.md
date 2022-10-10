@@ -21,6 +21,12 @@
    * [Monke] No official tools for flashing, apart from leaked versions of Odin3 floating around. Heimdall, an alternative to Odin3, is pain™
    * [Monke] No default backup of EFS, if you don't manually back it up the IMEI will reset to 000000000000000, rendering the phone useless for phone stuff
  - [Monke] Stock roms can only be obtained via the use of third-party websites and tools
+ - [Glint] Older "A" series Samsung phones, when updated to Android 12 become poorly optimised and kill applications frequently.
+ - [Glint] During the setup process, preselect applications and games for installation which are confusing to deselect (Tik-Tok and Temple Run I find are the most common)
+
+### TVs
+ - [Glint] Some Samsung "smart" TVs - when connected to the LAN - spam ARP requests to the router every 2 seconds.
+ - [Glint] The OS is incredibly slow and littered with advertising.
  
 ### Other
 
