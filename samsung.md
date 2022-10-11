@@ -2,7 +2,9 @@
 
 ### Phones
 
- - Frequent "Account terms updated" notifications
+ - Frequent useless & annoying notifications
+   * "Account terms updated" every time their intern finds something questionable on reddit that might get them sued for $5 if the redditor hires million dollar lawyers.
+   * Samsung Cloud's "Auto backing up your data..." that hangs well after the fact even though I didn't opt in, and didn't see a way to easily disable it.
  - Ugly UI
    * Offensively bad default icon theme
    * Harsh blue hurts my soul
