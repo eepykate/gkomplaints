@@ -9,6 +9,7 @@
    * Offensively bad default icon theme
    * Harsh blue hurts my soul
    * Just generally ugly tbh
+ - JPEG screenshots.  Very compress, much sad.  Some phones have an option to set to png, but many don't.
  - Samsung Store
    * Overall bad, terrible to use and navigate
    * Some software is hidden from play store, and instead moved to the samsung store.
