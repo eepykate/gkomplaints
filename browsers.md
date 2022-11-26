@@ -17,6 +17,7 @@ In no particular order - OS tags refer to issues only present when using that OS
 
 ### The Bad
 #### Firefox
+ - right click -> copy image on a transparent image replaces the transparency with black
  - Less compatible
  - `Alt+Return` on the new tab page replaces the current tab, instead of opening a new tab
  - As of recent-ish, tab navigation on google is unresponsive for a solid second after results appear (certainly intentional)
